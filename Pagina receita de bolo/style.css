@@ -1,0 +1,27 @@
+div {
+    font-family: Verdana;
+}
+
+h1 {  
+  text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: saddlebrown;
+    font-weight: normal;
+}
+
+h3 {
+    font-size: 20px;
+    color: saddlebrown;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 15px;
+    line-height: 30px;
+}
+
+
+
